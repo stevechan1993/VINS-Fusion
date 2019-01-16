@@ -10,8 +10,8 @@ image0_topic: "/camera/left/image_raw"
 image1_topic: "/camera/right/image_raw"
 output_path: "/home/steve/output/"
 
-cam0_calib: "cam0_mei.yaml"
-cam1_calib: "cam1_mei.yaml"
+cam0_calib: "cam0_pinhole.yaml"
+cam1_calib: "cam1_pinhole.yaml"
 image_width: 752
 image_height: 480
    
